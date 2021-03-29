@@ -1,1 +1,1 @@
-SpikeMono
+A depencency for ElectroEngine
